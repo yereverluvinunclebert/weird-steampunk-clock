@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<name>Weird Steampunk Clock</name>
+	<version>1.2</version>
+	<identifier>9a06efb0-277c-11e2-aff1-0016cb01fc35</identifier>
+	<image usage="dock" src="Resources/dock.png"/>
+	<image usage="security" src="Resources/security.png"/>
+	<author name="Dean Beedell and Harry Whitfield"/>
+	<copyright>Copyright © 2012 Dean Beedell and Harry Whitfield</copyright>
+	<description>A New Steampunk Clock, weird but working. Fully animated with sounds.</description>
+	<security>
+          <filesystem>full</filesystem>
+          <http>all</http>
+          <applescript>true</applescript>
+          <command>true</command>
+          <hotkey>false</hotkey>
+	</security>
+	<platform minVersion = "4.5" />
+</metadata>
