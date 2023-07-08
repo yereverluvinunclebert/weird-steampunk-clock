@@ -87,6 +87,7 @@ Wit these instructions you should be able to start Yahoo! Widgets and the
 menubar item should appear. Widgets can then be started from the menubar or by 
 double-clicking on the KON file in the usual way.
 
+![weirdaboutus](https://github.com/yereverluvinunclebert/weird-steampunk-clock/assets/2788342/6d8506b3-a77c-4a5f-9dc1-2f76f4ba9447)
 
 
 LICENCE AGREEMENTS:
