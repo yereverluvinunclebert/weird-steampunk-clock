@@ -4,13 +4,18 @@ The weird steampunk Yahoo Widget, written in Javascript and XML for the Yahoo
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+![steampunk-weird-clock](https://github.com/yereverluvinunclebert/weird-steampunk-clock/assets/2788342/5412ece6-9019-4ded-9504-038c578d7941)
 
 This weird steampunk widget is an attractive steampunk Yahoo widget for your desktop. 
 It is a simple clock. Functional and gorgeous at the same time. This Widget is a 
 moveable widget that you can move anywhere around the desktop as you require.
 
+![steampunk-weird-clock-help](https://github.com/yereverluvinunclebert/weird-steampunk-clock/assets/2788342/155d0d92-4fb6-4431-970f-2f6c7b516e18)
+
 The widget can be resized - Hover the cursor over the widget. Press the CTRL key 
 and use your mousewheel up or down. The widget will resize dynamically.
+
+![weird-clock-in-photoshop](https://github.com/yereverluvinunclebert/weird-steampunk-clock/assets/2788342/b3ed3347-38c1-47b5-ab36-35e3d76b394e)
 
 All javascript widgets need an engine to function, in this case the widget uses 
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
@@ -49,7 +54,7 @@ Running the widget using a javascript engine frees javascript from running only
 within the captivity of a browser, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
-
+![yahoo-logo-small_111](https://github.com/yereverluvinunclebert/weird-steampunk-clock/assets/2788342/1ae69f4e-02c3-485f-8e8a-17a30970ed94)
  
 Instructions for running Yahoo widgets on Windows
 =================================================
